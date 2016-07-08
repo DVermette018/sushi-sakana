@@ -81,20 +81,15 @@
                             <div class="container">
                                 <ul class="topbar-left list-unstyled pull-left">
                                     <li>
-                                        <a href="#" class="link"> <i class="icons fa fa-circle"></i><span>Nous joindre</span></a>
+                                        <a href="#" class="link"> <i class="icons fa fa-phone fa-4x"></i><span>418 554-5050</span></a>
                                     </li>
-                                    <li>
-                                        <a href="#" class="link"> <i class="icons fa fa-circle"></i><span>Nous trouver</span></a>
-                                    </li>
+
                                     <li>
                                       <?php if(date('w',$timestamp) == 1 OR date('w',$timestamp) == 7) : ?>
-                                          <a href="javascript:void(0)" class="link"> <i class="icons-2 fa fa-clock-o"></i><span>16:00 - 21:00</span></a>
+                                          <a href="javascript:void(0)" class="link"> <i class="icons-2 fa fa-clock-o"></i><span>Fermé aujourd'hui</span></a>
                                       <?php endif; ?>
-                                      <?php if(date('w',$timestamp) == 2) : ?>
-                                          <a href="javascript:void(0)" class="link"> <i class="icons-2 fa fa-clock-o"></i><span>Fermé</span></a>
-                                      <?php endif; ?>
-                                      <?php if(date('w',$timestamp) > 2 AND date('w',$timestamp) < 7) : ?>
-                                          <a href="javascript:void(0)" class="link"> <i class="icons-2 fa fa-clock-o"></i><span>09:00 - 21:00</span></a>
+                                      <?php if(date('w',$timestamp) > 1 AND date('w',$timestamp) < 7) : ?>
+                                          <a href="javascript:void(0)" class="link"> <i class="icons-2 fa fa-clock-o"></i><span>Ouvert aujourd'hui : 08:00 - 17:00</span></a>
                                       <?php endif; ?>
 
                                     </li>
