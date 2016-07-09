@@ -62,7 +62,7 @@
                                             <div class="box">
                                                 <div class="wrapper">
                                                     <h5 class="name">Grossiste</h5>
-                                                    <div class="image-dish"><img src="assets/images/seafood/kingcrab.png" alt="" class="image-1"><img src="assets/images/seafood/kingcrab-4.png" alt="" class="image-2"></div>
+                                                    <div class="image-dish"><img src="assets/images/seafood/kingcrab.png" alt="" class="image-1"><img src="assets/images/seafood/maki.jpg" alt="" class="image-2"></div>
                                                     <div title="Rated 5.00 out of 5" class="star-rating"><span class="width-80"><strong class="rating">4.00</strong></span></div>
                                                     <div class="prices-wrapper">
                                                         <div class="prices"><sup>$</sup><span class="number">29.00</span></div></div><a href="menu-gird.html" class="btn btn-seemore">Menu complet</a><svg width="100%" height="100%" class="border-efect"><line x1="0" y1="0" x2="1008" y2="0" class="top"></line><line x1="0" y1="426" x2="0" y2="-852" class="left"></line><line x1="336" y1="426" x2="-672" y2="426" class="bottom"></line><line x1="336" y1="0" x2="336" y2="1278" class="right"></line></svg></div>
@@ -72,7 +72,7 @@
                                             <div class="box">
                                                 <div class="wrapper">
                                                     <h5 class="name">Traiteur</h5>
-                                                    <div class="image-dish"><img src="assets/images/seafood/crawfish.png" alt="" class="image-1"><img src="assets/images/seafood/crawfish-4.png" alt="" class="image-2"></div>
+                                                    <div class="image-dish"><img src="assets/images/seafood/crawfish.png" alt="" class="image-1"><img src="assets/images/seafood/nigiri.jpg" alt="" class="image-2"></div>
                                                     <div title="Rated 5.00 out of 5" class="star-rating"><span class="width-100"><strong class="rating">5.00</strong></span></div>
                                                     <div class="prices-wrapper">
                                                         <div class="prices"><sup>$</sup><span class="number">39.00</span></div></div><a href="menu-gird.html" class="btn btn-seemore">Menu complet</a><svg width="100%" height="100%" class="border-efect"><line x1="0" y1="0" x2="1008" y2="0" class="top"></line><line x1="0" y1="426" x2="0" y2="-852" class="left"></line><line x1="336" y1="426" x2="-672" y2="426" class="bottom"></line><line x1="336" y1="0" x2="336" y2="1278" class="right"></line></svg></div>
@@ -82,7 +82,7 @@
                                             <div class="box">
                                                 <div class="wrapper">
                                                     <h5 class="name">Spéciaux</h5>
-                                                    <div class="image-dish"><img src="assets/images/seafood/clamp.png" alt="" class="image-1"><img src="assets/images/seafood/clamp-4.png" alt="" class="image-2"></div>
+                                                    <div class="image-dish"><img src="assets/images/seafood/clamp.png" alt="" class="image-1"><img src="assets/images/seafood/deals.jpg" alt="" class="image-2"></div>
                                                     <div title="Rated 5.00 out of 5" class="star-rating"><span class="width-80"><strong class="rating">4.00</strong></span></div>
                                                     <div class="prices-wrapper">
                                                         <div class="prices"><sup>$</sup><span class="number">69.00</span></div></div><a href="menu-gird.html" class="btn btn-seemore">Menu complet</a><svg width="100%" height="100%" class="border-efect"><line x1="0" y1="0" x2="1008" y2="0" class="top"></line><line x1="0" y1="426" x2="0" y2="-852" class="left"></line><line x1="336" y1="426" x2="-672" y2="426" class="bottom"></line><line x1="336" y1="0" x2="336" y2="1278" class="right"></line></svg></div>
